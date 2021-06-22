@@ -4,3 +4,4 @@
 # 文件  run
 if __name__ == 'main':
     'pyinstaller - F - w yourfilename.py'
+    'pyinstaller -w -F -i 1.ico --noupx copy_tables.py'
